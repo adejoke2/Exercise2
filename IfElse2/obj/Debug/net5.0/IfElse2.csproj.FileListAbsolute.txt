@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\IfElse2.exe
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\IfElse2.deps.json
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\IfElse2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\IfElse2.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\IfElse2.dll
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\ref\IfElse2.dll
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\bin\Debug\net5.0\IfElse2.pdb
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.dll
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\ref\IfElse2.dll
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.pdb
+C:\Users\ADMIN\Desktop\Exercise2\IfElse2\obj\Debug\net5.0\IfElse2.genruntimeconfig.cache

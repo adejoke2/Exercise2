@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\If&Else.exe
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\If&Else.deps.json
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\If&Else.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\If&Else.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\If&Else.dll
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\ref\If&Else.dll
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\bin\Debug\net5.0\If&Else.pdb
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.dll
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\ref\If&Else.dll
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.pdb
+C:\Users\ADMIN\Desktop\Exercise2\If&Else\obj\Debug\net5.0\If&Else.genruntimeconfig.cache
